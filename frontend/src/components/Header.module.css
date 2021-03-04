@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerLogo {
+  font-size: 27px;
+  display: flex;
+  align-items: center;
+
+  cursor: pointer;
+}
+
+.logo {
+  height: 50px;
+}
